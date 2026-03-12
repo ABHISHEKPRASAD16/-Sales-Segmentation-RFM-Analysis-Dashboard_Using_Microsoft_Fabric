@@ -11,9 +11,6 @@ This end-to-end data analytics project performs **RFM (Recency, Frequency, Monet
 
 ---
 
-## 🖼️ Dashboard Preview
-
-![RFM Dashboard](dashboard_preview.png)
 
 ---
 
